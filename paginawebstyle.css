@@ -1,0 +1,27 @@
+body {
+background-color: lightblue !important;
+text-align:center;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+}
+
+.uppercase {
+text-transform:uppercase;
+}
+
+#cursivo{
+font-family:cursive;
+}
+
+a:hover{
+color:red;
+}
+
+p, h1 {
+color:red;
+font-family:impact;
+}
+

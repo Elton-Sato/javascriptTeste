@@ -1,0 +1,25 @@
+header {
+	background-color: lightblue;
+}
+
+footer {
+	background-color: lightgreen;
+}
+
+#texto {
+	background-color: orange;
+}
+
+th {
+	border: 2px solid blue;
+	font-family: impact;
+	font-size: 12px;
+}
+
+td {
+	border: 1px dashed black;
+}
+
+#tabela {
+	background-color: yellow;
+}
